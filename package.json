@@ -1,6 +1,6 @@
 {
-  "name": "dummy-react-npm-module",
-  "version": "1.0.0",
+  "name": "@userfront/sample",
+  "version": "0.1.0",
   "description": "A dummy react npm module",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/recraftstudio/dummy-react-npm-module.git"
+    "url": "git+https://github.com/tyrw/react-npm-sample.git"
   },
-  "author": "Manoj Singh Negi",
-  "license": "ISC",
+  "author": "Userfront",
   "bugs": {
-    "url": "https://github.com/recraftstudio/dummy-react-npm-module/issues"
+    "url": "https://github.com/tyrw/react-npm-sample/issues"
   },
-  "homepage": "https://github.com/recraftstudio/dummy-react-npm-module#readme",
+  "homepage": "https://github.com/tyrw/react-npm-sample#readme",
   "peerDependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.3"
